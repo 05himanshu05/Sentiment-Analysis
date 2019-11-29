@@ -9,10 +9,10 @@ import sys
 sys.path.append("C:\Machine Learning\TwitterDemo\sarcasm-tweet-analysis/")
 
 
-access_token = '1079679297433071616-UQriblNmD4E1mBHg6ZVYQFxWw4MWKe'
-access_token_secret = 'hMnlZ2AI0fBUSYtE7CpUq60AAJhsDGp5ZP4IcS3iL23y8'
-consumer_key = 'Fj2nzhcxV31LG0ssnLhasYW7O'
-consumer_secret_key = 'hSxxZkPReUlcs0xsBwLQE5NsxXXAJQD8CHkee5appeIpROHuYE'
+access_token = ''
+access_token_secret = ''
+consumer_key = ''
+consumer_secret_key = ''
 
 
 class TweetsStreamingListener(StreamListener):
